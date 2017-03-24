@@ -7,7 +7,7 @@
 //
 //  Extra Features: I added a detail view which allows the user to see the image better. This changes the way deleting a photo works. The used must tap edit to delete an image.
 
-//  Tablet Tour, Location Scout, version for Githiub initial commit
+//  Tablet Tour, Location Scout, Location Survey, version for Githiub initial commit
 
 import UIKit
 import MapKit

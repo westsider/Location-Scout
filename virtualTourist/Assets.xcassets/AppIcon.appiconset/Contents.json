@@ -3,49 +3,49 @@
     {
       "size" : "20x20",
       "idiom" : "iphone",
-      "filename" : "VirtualTourist_40.png",
+      "filename" : "globe40.png",
       "scale" : "2x"
     },
     {
       "size" : "20x20",
       "idiom" : "iphone",
-      "filename" : "VirtualTourist_60.png",
+      "filename" : "globe60.png",
       "scale" : "3x"
     },
     {
       "size" : "29x29",
       "idiom" : "iphone",
-      "filename" : "VirtualTourist_58.png",
+      "filename" : "globe58.png",
       "scale" : "2x"
     },
     {
       "size" : "29x29",
       "idiom" : "iphone",
-      "filename" : "VirtualTourist_87.png",
+      "filename" : "globe87.png",
       "scale" : "3x"
     },
     {
       "size" : "40x40",
       "idiom" : "iphone",
-      "filename" : "VirtualTourist_80.png",
+      "filename" : "globe80.png",
       "scale" : "2x"
     },
     {
       "size" : "40x40",
       "idiom" : "iphone",
-      "filename" : "VirtualTourist_120.png",
+      "filename" : "globe120-1.png",
       "scale" : "3x"
     },
     {
       "size" : "60x60",
       "idiom" : "iphone",
-      "filename" : "VirtualTourist_120-1.png",
+      "filename" : "globe120.png",
       "scale" : "2x"
     },
     {
       "size" : "60x60",
       "idiom" : "iphone",
-      "filename" : "VirtualTourist_180.png",
+      "filename" : "globe180.png",
       "scale" : "3x"
     }
   ],
